@@ -1,0 +1,1 @@
+This project implements an interactive, text-based adventure game in Python. The player navigates through different scenes based on their choices. Each scene provides a description and a set of choices that dictate the flow of the game. The game continues until the player reaches an ending scene with no further choices.
